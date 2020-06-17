@@ -47,15 +47,15 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 3 because 2.7 is pretty much defunct at this point (sad times) 
 
 ### Q2. Which Python Version Installed   
 
-In the Terminal:
+In the Terminal: 
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 3.8.3
 
  
 
