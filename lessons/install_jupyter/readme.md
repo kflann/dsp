@@ -9,10 +9,10 @@ It was formerly known as "IPython Notebook."
  
 ## :boom: Exercises :boom:
 
->### Part 1:  Jupyter Notebook Installation
+>### Part 1:  Jupyter Notebook Installation --DONE
 Review the [installation instructions](jupyter_notebook_1_install.md) and install the notebook.
 
->### Part 2:  Using the Notebook 
+>### Part 2:  Using the Notebook --DONE
 Review the [notes on using Jupyter Notebook](jupyter_notebook_2_use.md) and create a test notebook.  Do some practice and get accustomed to navigating around the notebook.  
 
  
